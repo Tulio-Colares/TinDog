@@ -9,7 +9,7 @@ export default class Testimonials extends Component {
         <div id="testimonial-carousel" class="carousel slide" data-ride="false">
           <div className="carousel-inner">
             <div className="carousel-item active container-fluid">
-              <h2 className="testimonial-text">Eu não tenho mais que farejar por aí outros cachorros em busca de amor. Achei uma Corgi no TinDog que é a mais gatinha! Woof.</h2>
+              <h2 className="testimonial-text">Eu não tenho mais que farejar por aí outros cachorros em busca de amor. Achei uma Corgi no TinDog que é uma gatinha! Woof.</h2>
               <img className="testimonial-image" src="images/dog-img.jpg" alt="dog-profile" />
               <em>Tito, São Paulo</em>
             </div>

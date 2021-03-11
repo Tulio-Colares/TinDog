@@ -10,7 +10,8 @@ export default class Footer extends Component {
             <i className="social-icon fab fa-twitter"></i>
             <i className="social-icon fab fa-instagram"></i>
             <i className="social-icon fas fa-envelope"></i>
-            <p>© Copyright 2021 TinDog</p>
+            <p><a href="https://tulio-portfolio.herokuapp.com/">Tulio Colares</a>  2021  TinDog</p>
+            <p>Esta versão é uma demonstração de conceito</p>
           </div>
         </footer>
       </div>

@@ -166,6 +166,11 @@ p {
   margin: 20px 10px;
 }
 
+.white-section a {
+  text-decoration: underline;
+  color: rgb(136, 136, 136);
+}
+
 @media (max-width: 1028px) {
 
   #title {
